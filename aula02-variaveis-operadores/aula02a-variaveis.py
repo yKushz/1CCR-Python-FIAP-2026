@@ -1,0 +1,17 @@
+print("Ex 01")
+nome = input("Digite o seu nome: ")
+print(f"Bem-vindo {nome}!!")
+
+print("<><><>")
+print("Ex 02")
+dia = input("Digite o dia: ")
+mes = input("Digite o mes: ")
+ano = input("Digite o ano: ")
+print(f"{dia}/{mes}/{ano}")
+#print(dia+"/"+mes+"/"+ano)
+
+print("<><><>")
+print("Ex 03")
+num1 = int(input("Digite o primeiro numero: "))
+num2 = int(input("Digite o segundo numero: "))
+print(num1 + num2)
